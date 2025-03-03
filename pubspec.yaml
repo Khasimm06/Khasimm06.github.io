@@ -1,0 +1,68 @@
+name: assignment_app
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  font_awesome_flutter: ^10.6.0
+  google_fonts: ^6.1.0
+  shared_preferences: ^2.2.2
+  flutter_svg: ^2.0.9
+     
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.jpg
+    - assets/instagram.png
+    - assets/facebook.png
+    - assets/twitter.png
+    - assets/logo1.png
+    - assets/movies.jpeg
+    - assets/music.jpeg
+    - assets/concert.jpg
+    - assets/gaming.jpeg
+    - assets/books.jpeg
+    - assets/online.jpeg
+    - assets/fashion.jpeg
+    - assets/sports.png
+
+    - assets/science.png
+    - assets/maths.png
+    - assets/engineering.png
+    - assets/medical.jpeg
+    - assets/social.png
+    - assets/humanity.png
+    - assets/business.jpeg
+    - assets/teaching.jpeg
+    - assets/law.jpeg
+    - assets/environment.jpeg
+
+    - assets/education.jpeg
+    - assets/medicalV.png
+    - assets/environmentalV.jpeg
+    - assets/disaster relif.jpeg
+    - assets/community.jpeg
+    - assets/animal.jpeg
+    - assets/arts.jpeg
+    - assets/digital.jpeg
+
+    - assets/popular1.png
+    - assets/popular2.jpg
+    - assets/popular3.jpeg
+    - assets/popular4.jpg
+
+
